@@ -1,0 +1,7 @@
+.DS_Store
+~$*
+.ipynb_checkpoints/
+__pycache__/
+# исходные данные Kaggle скачиваются отдельно
+original_db + export/
+Datafiniti_Fast_Food_Restaurants_May19.csv
